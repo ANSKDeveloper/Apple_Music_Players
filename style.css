@@ -172,7 +172,8 @@ label {
 
 @media(max-width:720px) {
     .logo {
-        font-size: 25px;margin-right:40px;
+        font-size: 25px;
+        margin-right:40px;
     }
     .Son {
         max-width: 100%;
@@ -205,6 +206,6 @@ label {
         font-size: 14px;
     }
       .Son2 input[type=text] {
-        width:280px;
+        width:240px;
     }
 }
