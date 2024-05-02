@@ -172,7 +172,7 @@ label {
 
 @media(max-width:720px) {
     .logo {
-        font-size: 25px;
+        font-size: 25px;margin-right:40px;
     }
     .Son {
         max-width: 100%;
