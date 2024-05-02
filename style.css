@@ -204,4 +204,7 @@ label {
     .Son2 input {
         font-size: 14px;
     }
+      .Son2 input[type=text] {
+        width:300px;
+    }
 }
