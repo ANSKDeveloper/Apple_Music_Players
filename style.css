@@ -208,4 +208,7 @@ label {
       .Son2 input[type=text] {
         width:240px;
     }
+    .Footer{
+        padding: 0px;
+    }
 }
